@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DroneControl.Core/DroneControl.Core.csproj" />
+    <Project Path="src/DroneControl.Wpf/DroneControl.Wpf.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DroneControl.Tests/DroneControl.Tests.csproj" />
+  </Folder>
+</Solution>

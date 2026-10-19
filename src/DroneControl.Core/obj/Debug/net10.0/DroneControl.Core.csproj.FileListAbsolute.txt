@@ -1,0 +1,11 @@
+C:\Users\Ombrex\Desktop\DroneControl\src\DroneControl.Core\bin\Debug\net10.0\DroneControl.Core.deps.json
+C:\Users\Ombrex\Desktop\DroneControl\src\DroneControl.Core\bin\Debug\net10.0\DroneControl.Core.dll
+C:\Users\Ombrex\Desktop\DroneControl\src\DroneControl.Core\bin\Debug\net10.0\DroneControl.Core.pdb
+C:\Users\Ombrex\Desktop\DroneControl\src\DroneControl.Core\obj\Debug\net10.0\DroneControl.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ombrex\Desktop\DroneControl\src\DroneControl.Core\obj\Debug\net10.0\DroneControl.Core.AssemblyInfoInputs.cache
+C:\Users\Ombrex\Desktop\DroneControl\src\DroneControl.Core\obj\Debug\net10.0\DroneControl.Core.AssemblyInfo.cs
+C:\Users\Ombrex\Desktop\DroneControl\src\DroneControl.Core\obj\Debug\net10.0\DroneControl.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ombrex\Desktop\DroneControl\src\DroneControl.Core\obj\Debug\net10.0\DroneControl.Core.dll
+C:\Users\Ombrex\Desktop\DroneControl\src\DroneControl.Core\obj\Debug\net10.0\refint\DroneControl.Core.dll
+C:\Users\Ombrex\Desktop\DroneControl\src\DroneControl.Core\obj\Debug\net10.0\DroneControl.Core.pdb
+C:\Users\Ombrex\Desktop\DroneControl\src\DroneControl.Core\obj\Debug\net10.0\ref\DroneControl.Core.dll
